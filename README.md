@@ -1,6 +1,4 @@
-# 🧠 Blockchain Course Template
-
-Chào mừng bạn đến với khoá học Blockchain dành cho sinh viên năm cuối ngành CNTT.
+# 🧠 [My Document Tracking](https://docs.google.com/spreadsheets/d/1f7CexfK_gKPYhXfi2QLfbZIruIFyD44bZoZSIutBzmc/edit?gid=1299343303#gid=1299343303)
 
 ---
 
@@ -57,4 +55,3 @@ ts-node test.ts
 
 ---
 
-Chúc bạn học vui! 🚀
