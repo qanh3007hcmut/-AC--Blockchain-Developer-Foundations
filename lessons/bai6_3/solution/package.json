@@ -1,0 +1,16 @@
+{
+  "name": "bai6_3-nft",
+  "version": "1.0.0",
+  "description": "NFT ERC721 with Hardhat",
+  "scripts": {
+    "compile": "hardhat compile",
+    "deploy": "hardhat deploy --network sepolia --tags deploy"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "@openzeppelin/contracts": "^5.0.0",
+    "hardhat": "^2.19.0",
+    "hardhat-deploy": "^0.11.45",
+    "dotenv": "^16.3.1"
+  }
+}
